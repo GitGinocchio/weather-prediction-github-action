@@ -1,0 +1,1367 @@
+{
+    "current_condition": [
+        {
+            "FeelsLikeC": "15",
+            "FeelsLikeF": "60",
+            "cloudcover": "50",
+            "humidity": "100",
+            "localObsDateTime": "2024-09-06 11:56 PM",
+            "observation_time": "10:56 PM",
+            "precipInches": "0.0",
+            "precipMM": "0.0",
+            "pressure": "1011",
+            "pressureInches": "30",
+            "temp_C": "15",
+            "temp_F": "60",
+            "uvIndex": "1",
+            "visibility": "10",
+            "visibilityMiles": "6",
+            "weatherCode": "116",
+            "weatherDesc": [
+                {
+                    "value": "Partly cloudy"
+                }
+            ],
+            "weatherIconUrl": [
+                {
+                    "value": ""
+                }
+            ],
+            "winddir16Point": "S",
+            "winddirDegree": "180",
+            "windspeedKmph": "6",
+            "windspeedMiles": "4"
+        }
+    ],
+    "nearest_area": [
+        {
+            "areaName": [
+                {
+                    "value": "London"
+                }
+            ],
+            "country": [
+                {
+                    "value": "United Kingdom"
+                }
+            ],
+            "latitude": "51.517",
+            "longitude": "-0.106",
+            "population": "7421228",
+            "region": [
+                {
+                    "value": "City of London, Greater London"
+                }
+            ],
+            "weatherUrl": [
+                {
+                    "value": ""
+                }
+            ]
+        }
+    ],
+    "request": [
+        {
+            "query": "Lat 51.51 and Lon -0.13",
+            "type": "LatLon"
+        }
+    ],
+    "weather": [
+        {
+            "astronomy": [
+                {
+                    "moon_illumination": "7",
+                    "moon_phase": "Waxing Crescent",
+                    "moonrise": "09:55 AM",
+                    "moonset": "08:26 PM",
+                    "sunrise": "06:21 AM",
+                    "sunset": "07:35 PM"
+                }
+            ],
+            "avgtempC": "18",
+            "avgtempF": "64",
+            "date": "2024-09-06",
+            "hourly": [
+                {
+                    "DewPointC": "18",
+                    "DewPointF": "64",
+                    "FeelsLikeC": "19",
+                    "FeelsLikeF": "65",
+                    "HeatIndexC": "19",
+                    "HeatIndexF": "65",
+                    "WindChillC": "19",
+                    "WindChillF": "65",
+                    "WindGustKmph": "7",
+                    "WindGustMiles": "4",
+                    "chanceoffog": "38",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "87",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "91",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "13",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "77",
+                    "diffRad": "0.2",
+                    "humidity": "95",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "0.4",
+                    "tempC": "19",
+                    "tempF": "65",
+                    "time": "0",
+                    "uvIndex": "1",
+                    "visibility": "2",
+                    "visibilityMiles": "1",
+                    "weatherCode": "143",
+                    "weatherDesc": [
+                        {
+                            "value": "Mist"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "58",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "18",
+                    "DewPointF": "64",
+                    "FeelsLikeC": "18",
+                    "FeelsLikeF": "65",
+                    "HeatIndexC": "18",
+                    "HeatIndexF": "65",
+                    "WindChillC": "18",
+                    "WindChillF": "65",
+                    "WindGustKmph": "2",
+                    "WindGustMiles": "1",
+                    "chanceoffog": "45",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "94",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "0.0",
+                    "humidity": "97",
+                    "precipInches": "0.0",
+                    "precipMM": "0.1",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "18",
+                    "tempF": "65",
+                    "time": "300",
+                    "uvIndex": "1",
+                    "visibility": "0",
+                    "visibilityMiles": "0",
+                    "weatherCode": "248",
+                    "weatherDesc": [
+                        {
+                            "value": "Fog"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "WNW",
+                    "winddirDegree": "285",
+                    "windspeedKmph": "1",
+                    "windspeedMiles": "1"
+                },
+                {
+                    "DewPointC": "17",
+                    "DewPointF": "63",
+                    "FeelsLikeC": "18",
+                    "FeelsLikeF": "64",
+                    "HeatIndexC": "18",
+                    "HeatIndexF": "64",
+                    "WindChillC": "18",
+                    "WindChillF": "64",
+                    "WindGustKmph": "4",
+                    "WindGustMiles": "2",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "91",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "0.3",
+                    "humidity": "97",
+                    "precipInches": "0.0",
+                    "precipMM": "1.2",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "0.5",
+                    "tempC": "18",
+                    "tempF": "64",
+                    "time": "600",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "353",
+                    "weatherDesc": [
+                        {
+                            "value": "Light rain shower"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "NNW",
+                    "winddirDegree": "333",
+                    "windspeedKmph": "3",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "17",
+                    "DewPointF": "63",
+                    "FeelsLikeC": "18",
+                    "FeelsLikeF": "64",
+                    "HeatIndexC": "18",
+                    "HeatIndexF": "64",
+                    "WindChillC": "18",
+                    "WindChillF": "64",
+                    "WindGustKmph": "8",
+                    "WindGustMiles": "5",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "93",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "17.9",
+                    "humidity": "96",
+                    "precipInches": "0.1",
+                    "precipMM": "1.4",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "27.8",
+                    "tempC": "18",
+                    "tempF": "64",
+                    "time": "900",
+                    "uvIndex": "4",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "353",
+                    "weatherDesc": [
+                        {
+                            "value": "Light rain shower"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "NW",
+                    "winddirDegree": "313",
+                    "windspeedKmph": "5",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "18",
+                    "DewPointF": "64",
+                    "FeelsLikeC": "19",
+                    "FeelsLikeF": "67",
+                    "HeatIndexC": "19",
+                    "HeatIndexF": "67",
+                    "WindChillC": "19",
+                    "WindChillF": "67",
+                    "WindGustKmph": "8",
+                    "WindGustMiles": "5",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "89",
+                    "chanceofrain": "79",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "32.5",
+                    "humidity": "91",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "50.2",
+                    "tempC": "19",
+                    "tempF": "67",
+                    "time": "1200",
+                    "uvIndex": "4",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "176",
+                    "weatherDesc": [
+                        {
+                            "value": "Patchy rain nearby"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "WSW",
+                    "winddirDegree": "239",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "18",
+                    "DewPointF": "64",
+                    "FeelsLikeC": "19",
+                    "FeelsLikeF": "66",
+                    "HeatIndexC": "19",
+                    "HeatIndexF": "66",
+                    "WindChillC": "19",
+                    "WindChillF": "66",
+                    "WindGustKmph": "18",
+                    "WindGustMiles": "11",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "86",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "126.9",
+                    "humidity": "92",
+                    "precipInches": "0.1",
+                    "precipMM": "2.5",
+                    "pressure": "1009",
+                    "pressureInches": "30",
+                    "shortRad": "223.6",
+                    "tempC": "19",
+                    "tempF": "66",
+                    "time": "1500",
+                    "uvIndex": "4",
+                    "visibility": "7",
+                    "visibilityMiles": "4",
+                    "weatherCode": "356",
+                    "weatherDesc": [
+                        {
+                            "value": "Moderate or heavy rain shower"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SW",
+                    "winddirDegree": "222",
+                    "windspeedKmph": "12",
+                    "windspeedMiles": "7"
+                },
+                {
+                    "DewPointC": "17",
+                    "DewPointF": "63",
+                    "FeelsLikeC": "18",
+                    "FeelsLikeF": "64",
+                    "HeatIndexC": "18",
+                    "HeatIndexF": "64",
+                    "WindChillC": "18",
+                    "WindChillF": "64",
+                    "WindGustKmph": "17",
+                    "WindGustMiles": "11",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "82",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "81.0",
+                    "humidity": "94",
+                    "precipInches": "0.0",
+                    "precipMM": "1.2",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "141.4",
+                    "tempC": "18",
+                    "tempF": "64",
+                    "time": "1800",
+                    "uvIndex": "4",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "353",
+                    "weatherDesc": [
+                        {
+                            "value": "Light rain shower"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSW",
+                    "winddirDegree": "202",
+                    "windspeedKmph": "9",
+                    "windspeedMiles": "5"
+                },
+                {
+                    "DewPointC": "16",
+                    "DewPointF": "60",
+                    "FeelsLikeC": "17",
+                    "FeelsLikeF": "62",
+                    "HeatIndexC": "17",
+                    "HeatIndexF": "62",
+                    "WindChillC": "17",
+                    "WindChillF": "62",
+                    "WindGustKmph": "10",
+                    "WindGustMiles": "6",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "94",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "84",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "6",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "49",
+                    "diffRad": "0.6",
+                    "humidity": "94",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1011",
+                    "pressureInches": "30",
+                    "shortRad": "1.1",
+                    "tempC": "17",
+                    "tempF": "62",
+                    "time": "2100",
+                    "uvIndex": "1",
+                    "visibility": "2",
+                    "visibilityMiles": "1",
+                    "weatherCode": "143",
+                    "weatherDesc": [
+                        {
+                            "value": "Mist"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSW",
+                    "winddirDegree": "203",
+                    "windspeedKmph": "7",
+                    "windspeedMiles": "4"
+                }
+            ],
+            "maxtempC": "20",
+            "maxtempF": "68",
+            "mintempC": "16",
+            "mintempF": "60",
+            "sunHour": "9.8",
+            "totalSnow_cm": "0.0",
+            "uvIndex": "2"
+        },
+        {
+            "astronomy": [
+                {
+                    "moon_illumination": "13",
+                    "moon_phase": "Waxing Crescent",
+                    "moonrise": "11:06 AM",
+                    "moonset": "08:38 PM",
+                    "sunrise": "06:23 AM",
+                    "sunset": "07:33 PM"
+                }
+            ],
+            "avgtempC": "18",
+            "avgtempF": "65",
+            "date": "2024-09-07",
+            "hourly": [
+                {
+                    "DewPointC": "14",
+                    "DewPointF": "57",
+                    "FeelsLikeC": "16",
+                    "FeelsLikeF": "60",
+                    "HeatIndexC": "16",
+                    "HeatIndexF": "60",
+                    "WindChillC": "16",
+                    "WindChillF": "60",
+                    "WindGustKmph": "2",
+                    "WindGustMiles": "1",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "32",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "91",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "88",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "34",
+                    "diffRad": "0.3",
+                    "humidity": "91",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1011",
+                    "pressureInches": "30",
+                    "shortRad": "0.6",
+                    "tempC": "16",
+                    "tempF": "60",
+                    "time": "0",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "116",
+                    "weatherDesc": [
+                        {
+                            "value": "Partly Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSW",
+                    "winddirDegree": "207",
+                    "windspeedKmph": "1",
+                    "windspeedMiles": "1"
+                },
+                {
+                    "DewPointC": "12",
+                    "DewPointF": "54",
+                    "FeelsLikeC": "15",
+                    "FeelsLikeF": "59",
+                    "HeatIndexC": "15",
+                    "HeatIndexF": "59",
+                    "WindChillC": "15",
+                    "WindChillF": "59",
+                    "WindGustKmph": "5",
+                    "WindGustMiles": "3",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "45",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "88",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "79",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "26",
+                    "diffRad": "0.0",
+                    "humidity": "84",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "15",
+                    "tempF": "59",
+                    "time": "300",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "116",
+                    "weatherDesc": [
+                        {
+                            "value": "Partly Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "95",
+                    "windspeedKmph": "3",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "12",
+                    "DewPointF": "53",
+                    "FeelsLikeC": "15",
+                    "FeelsLikeF": "59",
+                    "HeatIndexC": "15",
+                    "HeatIndexF": "59",
+                    "WindChillC": "15",
+                    "WindChillF": "59",
+                    "WindGustKmph": "7",
+                    "WindGustMiles": "5",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "0",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "85",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "88",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "15",
+                    "diffRad": "0.6",
+                    "humidity": "80",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1011",
+                    "pressureInches": "30",
+                    "shortRad": "1.2",
+                    "tempC": "15",
+                    "tempF": "59",
+                    "time": "600",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "113",
+                    "weatherDesc": [
+                        {
+                            "value": "Clear "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "ENE",
+                    "winddirDegree": "67",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "13",
+                    "DewPointF": "55",
+                    "FeelsLikeC": "18",
+                    "FeelsLikeF": "64",
+                    "HeatIndexC": "18",
+                    "HeatIndexF": "64",
+                    "WindChillC": "18",
+                    "WindChillF": "64",
+                    "WindGustKmph": "7",
+                    "WindGustMiles": "4",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "41",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "87",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "71",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "31",
+                    "diffRad": "80.4",
+                    "humidity": "73",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1011",
+                    "pressureInches": "30",
+                    "shortRad": "151.8",
+                    "tempC": "18",
+                    "tempF": "64",
+                    "time": "900",
+                    "uvIndex": "5",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "116",
+                    "weatherDesc": [
+                        {
+                            "value": "Partly Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "85",
+                    "windspeedKmph": "5",
+                    "windspeedMiles": "3"
+                },
+                {
+                    "DewPointC": "13",
+                    "DewPointF": "55",
+                    "FeelsLikeC": "22",
+                    "FeelsLikeF": "72",
+                    "HeatIndexC": "25",
+                    "HeatIndexF": "76",
+                    "WindChillC": "22",
+                    "WindChillF": "72",
+                    "WindGustKmph": "10",
+                    "WindGustMiles": "6",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "48",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "84",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "85",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "45",
+                    "diffRad": "106.7",
+                    "humidity": "56",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1010",
+                    "pressureInches": "30",
+                    "shortRad": "294.5",
+                    "tempC": "22",
+                    "tempF": "72",
+                    "time": "1200",
+                    "uvIndex": "6",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "116",
+                    "weatherDesc": [
+                        {
+                            "value": "Partly Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "98",
+                    "windspeedKmph": "8",
+                    "windspeedMiles": "5"
+                },
+                {
+                    "DewPointC": "12",
+                    "DewPointF": "54",
+                    "FeelsLikeC": "25",
+                    "FeelsLikeF": "76",
+                    "HeatIndexC": "25",
+                    "HeatIndexF": "76",
+                    "WindChillC": "23",
+                    "WindChillF": "73",
+                    "WindGustKmph": "15",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "90",
+                    "chanceofrain": "0",
+                    "chanceofremdry": "86",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "18",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "63",
+                    "diffRad": "185.0",
+                    "humidity": "52",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1008",
+                    "pressureInches": "30",
+                    "shortRad": "508.4",
+                    "tempC": "23",
+                    "tempF": "73",
+                    "time": "1500",
+                    "uvIndex": "5",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "119",
+                    "weatherDesc": [
+                        {
+                            "value": "Cloudy "
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "90",
+                    "windspeedKmph": "13",
+                    "windspeedMiles": "8"
+                },
+                {
+                    "DewPointC": "13",
+                    "DewPointF": "55",
+                    "FeelsLikeC": "20",
+                    "FeelsLikeF": "68",
+                    "HeatIndexC": "20",
+                    "HeatIndexF": "68",
+                    "WindChillC": "20",
+                    "WindChillF": "68",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "92",
+                    "chanceofrain": "77",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "83",
+                    "diffRad": "126.8",
+                    "humidity": "62",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1009",
+                    "pressureInches": "30",
+                    "shortRad": "326.2",
+                    "tempC": "20",
+                    "tempF": "68",
+                    "time": "1800",
+                    "uvIndex": "5",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "176",
+                    "weatherDesc": [
+                        {
+                            "value": "Patchy rain nearby"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "E",
+                    "winddirDegree": "79",
+                    "windspeedKmph": "10",
+                    "windspeedMiles": "6"
+                },
+                {
+                    "DewPointC": "14",
+                    "DewPointF": "57",
+                    "FeelsLikeC": "18",
+                    "FeelsLikeF": "65",
+                    "HeatIndexC": "18",
+                    "HeatIndexF": "65",
+                    "WindChillC": "18",
+                    "WindChillF": "65",
+                    "WindGustKmph": "14",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "82",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "62",
+                    "diffRad": "0.9",
+                    "humidity": "76",
+                    "precipInches": "0.0",
+                    "precipMM": "0.1",
+                    "pressure": "1007",
+                    "pressureInches": "30",
+                    "shortRad": "1.9",
+                    "tempC": "18",
+                    "tempF": "65",
+                    "time": "2100",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "176",
+                    "weatherDesc": [
+                        {
+                            "value": "Patchy rain nearby"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "NE",
+                    "winddirDegree": "41",
+                    "windspeedKmph": "9",
+                    "windspeedMiles": "6"
+                }
+            ],
+            "maxtempC": "23",
+            "maxtempF": "74",
+            "mintempC": "15",
+            "mintempF": "59",
+            "sunHour": "12.3",
+            "totalSnow_cm": "0.0",
+            "uvIndex": "4"
+        },
+        {
+            "astronomy": [
+                {
+                    "moon_illumination": "20",
+                    "moon_phase": "Waxing Crescent",
+                    "moonrise": "12:20 PM",
+                    "moonset": "08:53 PM",
+                    "sunrise": "06:25 AM",
+                    "sunset": "07:30 PM"
+                }
+            ],
+            "avgtempC": "17",
+            "avgtempF": "62",
+            "date": "2024-09-08",
+            "hourly": [
+                {
+                    "DewPointC": "16",
+                    "DewPointF": "62",
+                    "FeelsLikeC": "17",
+                    "FeelsLikeF": "62",
+                    "HeatIndexC": "17",
+                    "HeatIndexF": "62",
+                    "WindChillC": "17",
+                    "WindChillF": "62",
+                    "WindGustKmph": "11",
+                    "WindGustMiles": "7",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "80",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "0.5",
+                    "humidity": "97",
+                    "precipInches": "0.2",
+                    "precipMM": "6.0",
+                    "pressure": "1003",
+                    "pressureInches": "30",
+                    "shortRad": "1.0",
+                    "tempC": "17",
+                    "tempF": "62",
+                    "time": "0",
+                    "uvIndex": "1",
+                    "visibility": "7",
+                    "visibilityMiles": "4",
+                    "weatherCode": "302",
+                    "weatherDesc": [
+                        {
+                            "value": "Moderate rain"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "NNE",
+                    "winddirDegree": "19",
+                    "windspeedKmph": "8",
+                    "windspeedMiles": "5"
+                },
+                {
+                    "DewPointC": "15",
+                    "DewPointF": "60",
+                    "FeelsLikeC": "16",
+                    "FeelsLikeF": "61",
+                    "HeatIndexC": "16",
+                    "HeatIndexF": "61",
+                    "WindChillC": "16",
+                    "WindChillF": "61",
+                    "WindGustKmph": "21",
+                    "WindGustMiles": "13",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "82",
+                    "chanceofrain": "66",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "0.0",
+                    "humidity": "94",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1004",
+                    "pressureInches": "30",
+                    "shortRad": "0.0",
+                    "tempC": "16",
+                    "tempF": "61",
+                    "time": "300",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "176",
+                    "weatherDesc": [
+                        {
+                            "value": "Patchy rain nearby"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSW",
+                    "winddirDegree": "194",
+                    "windspeedKmph": "15",
+                    "windspeedMiles": "9"
+                },
+                {
+                    "DewPointC": "14",
+                    "DewPointF": "57",
+                    "FeelsLikeC": "15",
+                    "FeelsLikeF": "59",
+                    "HeatIndexC": "15",
+                    "HeatIndexF": "59",
+                    "WindChillC": "15",
+                    "WindChillF": "59",
+                    "WindGustKmph": "17",
+                    "WindGustMiles": "10",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "84",
+                    "chanceofrain": "75",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "89",
+                    "diffRad": "0.6",
+                    "humidity": "92",
+                    "precipInches": "0.0",
+                    "precipMM": "0.0",
+                    "pressure": "1004",
+                    "pressureInches": "30",
+                    "shortRad": "1.2",
+                    "tempC": "15",
+                    "tempF": "59",
+                    "time": "600",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "176",
+                    "weatherDesc": [
+                        {
+                            "value": "Patchy rain nearby"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSE",
+                    "winddirDegree": "159",
+                    "windspeedKmph": "11",
+                    "windspeedMiles": "7"
+                },
+                {
+                    "DewPointC": "13",
+                    "DewPointF": "55",
+                    "FeelsLikeC": "17",
+                    "FeelsLikeF": "62",
+                    "HeatIndexC": "17",
+                    "HeatIndexF": "62",
+                    "WindChillC": "17",
+                    "WindChillF": "62",
+                    "WindGustKmph": "21",
+                    "WindGustMiles": "13",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "86",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "91",
+                    "diffRad": "82.6",
+                    "humidity": "78",
+                    "precipInches": "0.0",
+                    "precipMM": "0.2",
+                    "pressure": "1005",
+                    "pressureInches": "30",
+                    "shortRad": "232.8",
+                    "tempC": "17",
+                    "tempF": "62",
+                    "time": "900",
+                    "uvIndex": "4",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "353",
+                    "weatherDesc": [
+                        {
+                            "value": "Light rain shower"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSE",
+                    "winddirDegree": "164",
+                    "windspeedKmph": "17",
+                    "windspeedMiles": "10"
+                },
+                {
+                    "DewPointC": "12",
+                    "DewPointF": "54",
+                    "FeelsLikeC": "19",
+                    "FeelsLikeF": "66",
+                    "HeatIndexC": "19",
+                    "HeatIndexF": "66",
+                    "WindChillC": "19",
+                    "WindChillF": "66",
+                    "WindGustKmph": "18",
+                    "WindGustMiles": "11",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "94",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "80",
+                    "diffRad": "117.7",
+                    "humidity": "65",
+                    "precipInches": "0.0",
+                    "precipMM": "0.1",
+                    "pressure": "1004",
+                    "pressureInches": "30",
+                    "shortRad": "328.3",
+                    "tempC": "19",
+                    "tempF": "66",
+                    "time": "1200",
+                    "uvIndex": "4",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "176",
+                    "weatherDesc": [
+                        {
+                            "value": "Patchy rain nearby"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "SSE",
+                    "winddirDegree": "163",
+                    "windspeedKmph": "15",
+                    "windspeedMiles": "9"
+                },
+                {
+                    "DewPointC": "13",
+                    "DewPointF": "56",
+                    "FeelsLikeC": "18",
+                    "FeelsLikeF": "64",
+                    "HeatIndexC": "18",
+                    "HeatIndexF": "64",
+                    "WindChillC": "18",
+                    "WindChillF": "64",
+                    "WindGustKmph": "15",
+                    "WindGustMiles": "9",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "84",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "63",
+                    "diffRad": "179.5",
+                    "humidity": "77",
+                    "precipInches": "0.0",
+                    "precipMM": "1.0",
+                    "pressure": "1003",
+                    "pressureInches": "30",
+                    "shortRad": "394.9",
+                    "tempC": "18",
+                    "tempF": "64",
+                    "time": "1500",
+                    "uvIndex": "4",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "353",
+                    "weatherDesc": [
+                        {
+                            "value": "Light rain shower"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "S",
+                    "winddirDegree": "169",
+                    "windspeedKmph": "10",
+                    "windspeedMiles": "6"
+                },
+                {
+                    "DewPointC": "14",
+                    "DewPointF": "57",
+                    "FeelsLikeC": "16",
+                    "FeelsLikeF": "62",
+                    "HeatIndexC": "16",
+                    "HeatIndexF": "62",
+                    "WindChillC": "16",
+                    "WindChillF": "62",
+                    "WindGustKmph": "6",
+                    "WindGustMiles": "4",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "93",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "100",
+                    "diffRad": "133.4",
+                    "humidity": "85",
+                    "precipInches": "0.0",
+                    "precipMM": "0.5",
+                    "pressure": "1003",
+                    "pressureInches": "30",
+                    "shortRad": "295.3",
+                    "tempC": "16",
+                    "tempF": "62",
+                    "time": "1800",
+                    "uvIndex": "4",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "353",
+                    "weatherDesc": [
+                        {
+                            "value": "Light rain shower"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "S",
+                    "winddirDegree": "189",
+                    "windspeedKmph": "4",
+                    "windspeedMiles": "2"
+                },
+                {
+                    "DewPointC": "13",
+                    "DewPointF": "56",
+                    "FeelsLikeC": "15",
+                    "FeelsLikeF": "60",
+                    "HeatIndexC": "15",
+                    "HeatIndexF": "60",
+                    "WindChillC": "15",
+                    "WindChillF": "60",
+                    "WindGustKmph": "11",
+                    "WindGustMiles": "7",
+                    "chanceoffog": "0",
+                    "chanceoffrost": "0",
+                    "chanceofhightemp": "0",
+                    "chanceofovercast": "81",
+                    "chanceofrain": "100",
+                    "chanceofremdry": "0",
+                    "chanceofsnow": "0",
+                    "chanceofsunshine": "0",
+                    "chanceofthunder": "0",
+                    "chanceofwindy": "0",
+                    "cloudcover": "55",
+                    "diffRad": "0.6",
+                    "humidity": "88",
+                    "precipInches": "0.0",
+                    "precipMM": "0.1",
+                    "pressure": "1003",
+                    "pressureInches": "30",
+                    "shortRad": "1.2",
+                    "tempC": "15",
+                    "tempF": "60",
+                    "time": "2100",
+                    "uvIndex": "1",
+                    "visibility": "10",
+                    "visibilityMiles": "6",
+                    "weatherCode": "176",
+                    "weatherDesc": [
+                        {
+                            "value": "Patchy rain nearby"
+                        }
+                    ],
+                    "weatherIconUrl": [
+                        {
+                            "value": ""
+                        }
+                    ],
+                    "winddir16Point": "WNW",
+                    "winddirDegree": "295",
+                    "windspeedKmph": "6",
+                    "windspeedMiles": "4"
+                }
+            ],
+            "maxtempC": "19",
+            "maxtempF": "66",
+            "mintempC": "15",
+            "mintempF": "59",
+            "sunHour": "9.8",
+            "totalSnow_cm": "0.0",
+            "uvIndex": "3"
+        }
+    ]
+}
